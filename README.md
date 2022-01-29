@@ -2,4 +2,10 @@
 
 ## Lista instrukcji
 
-- [Instrukcje dotyczące GitHub'a](./GITHUB.pl-PL.md)
+- [GitHub](./GITHUB.md)
+- [Node.js](./NODEJS.md)
+- [Terminal](./TERMINAL.md)
+
+## Dlaczego?
+
+![Bobas](./assets/antos-bobas.png)

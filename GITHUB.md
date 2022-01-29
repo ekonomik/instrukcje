@@ -1,5 +1,7 @@
 # Instrukcje do GitHub'a
 
+[Wróć do listy instrukcji](./README.md)
+
 ## Tworzenie konta i dołączanie do organizacji
 
 1. Podaj dla administratora organizacji swojego maila.
@@ -12,8 +14,8 @@
 ## Instalacja i konfiguracja Git'a na komputerze
 
 1. Pobierz i zainstaluj:
-    - [Git'a](https://git-scm.com/downloads)
-    - [GitHub Desktop](https://desktop.github.com/).
+   - [Git'a](https://git-scm.com/downloads)
+   - [GitHub Desktop](https://desktop.github.com/).
 2. Uruchom zainstalowaną aplikację **GitHub Desktop** i zaloguj się swoim kontem GitHub.
 3. Na ten moment to wszystko.
 
