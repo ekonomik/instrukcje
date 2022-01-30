@@ -8,7 +8,7 @@
 2. Gdy otrzymasz informację zwrotną o dodaniu sprawdź swojego maila.
 3. Wejdź w link otrzymany w wiadomości e-mail.  
    ![Zaproszenie do organizacji](./assets/github-mail-invite.png)
-4. Uzupełnij formularz utorzenia konta i utwórz konto.
+4. Uzupełnij formularz utworzenia konta i utwórz konto.
 5. Gotowe! Już jesteś członkiem organizacji i możesz w pełni korzystać z GitHub'a.
 
 ## Instalacja i konfiguracja Git'a na komputerze
