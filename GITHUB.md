@@ -4,7 +4,7 @@
 
 ## Tworzenie konta i dołączanie do organizacji
 
-1. Podaj dla administratora organizacji swojego maila.
+1. Podaj dla administratora organizacji (Programiści Filip H. i Jakub A.) swojego maila.
 2. Gdy otrzymasz informację zwrotną o dodaniu sprawdź swojego maila.
 3. Wejdź w link otrzymany w wiadomości e-mail.  
    ![Zaproszenie do organizacji](./assets/github-mail-invite.png)
